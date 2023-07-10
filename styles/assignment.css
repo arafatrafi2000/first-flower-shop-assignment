@@ -1,0 +1,10 @@
+/* common shared styles */
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+header{
+    width:2000px;
+    height:850px;
+    background-color:rgba(229, 84, 115, 0.10);
+}
